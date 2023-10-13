@@ -1,0 +1,442 @@
+Country,Source,Sex,Economic_Activity,Currency,Year,Value
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,2017 PPP $,2022,592.19
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,2017 PPP $,2022,357.98
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,2017 PPP $,2022,637.77
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,2017 PPP $,2022,520.89
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2022,779.09
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2022,650.25
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2022,696.84
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,2017 PPP $,2021,528.8
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,2017 PPP $,2021,313.65
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,2017 PPP $,2021,583.5
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,2017 PPP $,2021,454.28
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2021,689.9
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2021,555.04
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2021,659.96
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,2017 PPP $,2020,526.92
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,2017 PPP $,2020,311.52
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,2017 PPP $,2020,560.05
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,2017 PPP $,2020,460.21
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2020,749.7
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2020,557.43
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2020,644.29
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,2017 PPP $,2019,538.97
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,2017 PPP $,2019,327.33
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,2017 PPP $,2019,567.13
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,2017 PPP $,2019,459.4
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2019,762.49
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2019,574.64
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2019,650.03
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,2017 PPP $,2018,518.45
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,2017 PPP $,2018,302.47
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,2017 PPP $,2018,543.58
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,2017 PPP $,2018,427.53
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2018,712.6
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2018,554.93
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2018,643.68
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,2017 PPP $,2017,514.82
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,2017 PPP $,2017,287.58
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,2017 PPP $,2017,538.67
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,2017 PPP $,2017,414.3
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2017,732.28
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2017,553.39
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2017,666.87
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,2017 PPP $,2016,465.76
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,2017 PPP $,2016,273.15
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,2017 PPP $,2016,472.86
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,2017 PPP $,2016,392.35
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2016,662.12
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2016,506.44
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2016,590.22
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,U.S. dollars,2022,194.98
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,U.S. dollars,2022,117.87
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,U.S. dollars,2022,209.99
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,U.S. dollars,2022,171.5
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2022,256.51
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2022,214.09
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2022,229.43
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,U.S. dollars,2021,187.27
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,U.S. dollars,2021,111.08
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,U.S. dollars,2021,206.65
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,U.S. dollars,2021,160.88
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2021,244.33
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2021,196.57
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2021,233.73
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,U.S. dollars,2020,188.76
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,U.S. dollars,2020,111.6
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,U.S. dollars,2020,200.63
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,U.S. dollars,2020,164.86
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2020,268.57
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2020,199.69
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2020,230.81
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,U.S. dollars,2019,197.67
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,U.S. dollars,2019,120.05
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,U.S. dollars,2019,207.99
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,U.S. dollars,2019,168.48
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2019,279.64
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2019,210.75
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2019,238.4
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,U.S. dollars,2018,186.71
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,U.S. dollars,2018,108.93
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,U.S. dollars,2018,195.76
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,U.S. dollars,2018,153.97
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2018,256.63
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2018,199.85
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2018,231.81
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,U.S. dollars,2017,195.82
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,U.S. dollars,2017,109.39
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,U.S. dollars,2017,204.89
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,U.S. dollars,2017,157.59
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2017,278.54
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2017,210.49
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2017,253.66
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,U.S. dollars,2016,170.71
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,U.S. dollars,2016,100.11
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,U.S. dollars,2016,173.31
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,U.S. dollars,2016,143.8
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2016,242.68
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2016,185.62
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2016,216.32
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,Local currency,2022,2895368.45
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,Local currency,2022,1750292.12
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,Local currency,2022,3118249.52
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,Local currency,2022,2546772.35
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2022,3809196.78
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2022,3179244.0
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2022,3407051.58
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,Local currency,2021,2679556.8
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,Local currency,2021,1589357.08
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,Local currency,2021,2956770.09
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,Local currency,2021,2301942.63
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2021,3495903.42
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2021,2812520.87
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2021,3344175.23
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,Local currency,2020,2752550.31
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,Local currency,2020,1627323.4
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,Local currency,2020,2925577.53
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,Local currency,2020,2404077.13
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2020,3916281.29
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2020,2911937.22
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2020,3365657.77
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,Local currency,2019,2796506.27
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,Local currency,2019,1698404.83
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,Local currency,2019,2942609.31
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,Local currency,2019,2383622.34
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2019,3956253.61
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2019,2981551.23
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2019,3372744.44
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,Local currency,2018,2658234.12
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,Local currency,2018,1550846.62
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,Local currency,2018,2787045.0
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,Local currency,2018,2192034.35
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2018,3653652.57
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2018,2845259.2
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2018,3300298.38
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,Local currency,2017,2620257.92
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,Local currency,2017,1463688.17
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,Local currency,2017,2741662.64
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,Local currency,2017,2108657.79
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2017,3727087.17
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2017,2816569.85
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2017,3394159.39
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Total,Local currency,2016,2271850.42
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Agriculture,Local currency,2016,1332338.18
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Manufacturing,Local currency,2016,2306494.59
+Indonesia,LFS - National Labour Force Survey,Male, (Aggregate): Construction,Local currency,2016,1913791.19
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2016,3229633.06
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2016,2470274.54
+Indonesia,LFS - National Labour Force Survey,Male," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2016,2878899.79
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,2017 PPP $,2022,550.19
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,2017 PPP $,2022,313.29
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,2017 PPP $,2022,573.1
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,2017 PPP $,2022,527.74
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2022,783.39
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2022,617.06
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2022,586.98
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,2017 PPP $,2021,495.63
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,2017 PPP $,2021,275.76
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,2017 PPP $,2021,525.75
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,2017 PPP $,2021,457.69
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2021,684.35
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2021,532.79
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2021,556.73
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,2017 PPP $,2020,490.35
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,2017 PPP $,2020,271.37
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,2017 PPP $,2020,505.13
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,2017 PPP $,2020,463.61
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2020,739.02
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2020,531.97
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2020,545.05
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,2017 PPP $,2019,499.04
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,2017 PPP $,2019,287.13
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,2017 PPP $,2019,508.53
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,2017 PPP $,2019,463.09
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2019,747.12
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2019,543.29
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2019,547.62
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,2017 PPP $,2018,480.93
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,2017 PPP $,2018,262.1
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,2017 PPP $,2018,483.51
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,2017 PPP $,2018,429.71
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2018,695.96
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2018,529.01
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2018,543.34
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,2017 PPP $,2017,478.16
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,2017 PPP $,2017,249.65
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,2017 PPP $,2017,478.45
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,2017 PPP $,2017,414.73
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2017,720.64
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2017,526.01
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2017,561.47
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,2017 PPP $,2016,435.78
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,2017 PPP $,2016,238.26
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,2017 PPP $,2016,428.18
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,2017 PPP $,2016,395.99
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2016,654.33
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2016,482.08
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2016,504.03
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,U.S. dollars,2022,181.15
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,U.S. dollars,2022,103.15
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,U.S. dollars,2022,188.69
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,U.S. dollars,2022,173.76
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2022,257.93
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2022,203.17
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2022,193.26
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,U.S. dollars,2021,175.53
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,U.S. dollars,2021,97.66
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,U.S. dollars,2021,186.2
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,U.S. dollars,2021,162.09
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2021,242.36
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2021,188.69
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2021,197.17
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,U.S. dollars,2020,175.66
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,U.S. dollars,2020,97.21
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,U.S. dollars,2020,180.95
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,U.S. dollars,2020,166.08
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2020,264.74
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2020,190.57
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2020,195.26
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,U.S. dollars,2019,183.02
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,U.S. dollars,2019,105.3
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,U.S. dollars,2019,186.5
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,U.S. dollars,2019,169.83
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2019,274.0
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2019,199.25
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2019,200.84
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,U.S. dollars,2018,173.2
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,U.S. dollars,2018,94.39
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,U.S. dollars,2018,174.13
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,U.S. dollars,2018,154.75
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2018,250.64
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2018,190.52
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2018,195.68
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,U.S. dollars,2017,181.88
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,U.S. dollars,2017,94.96
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,U.S. dollars,2017,181.99
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,U.S. dollars,2017,157.75
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2017,274.11
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2017,200.08
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2017,213.57
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,U.S. dollars,2016,159.72
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,U.S. dollars,2016,87.33
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,U.S. dollars,2016,156.93
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,U.S. dollars,2016,145.14
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2016,239.82
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2016,176.69
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2016,184.74
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,Local currency,2022,2690034.69
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,Local currency,2022,1531773.08
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,Local currency,2022,2802049.97
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,Local currency,2022,2580279.15
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2022,3830233.35
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2022,3016989.81
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2022,2869904.54
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,Local currency,2021,2511508.12
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,Local currency,2021,1397337.38
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,Local currency,2021,2664127.55
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,Local currency,2021,2319221.15
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2021,3467763.29
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2021,2699775.81
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2021,2821090.49
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,Local currency,2020,2561509.93
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,Local currency,2020,1417576.53
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,Local currency,2020,2638697.49
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,Local currency,2020,2421813.13
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2020,3860530.99
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2020,2778900.63
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2020,2847253.1
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,Local currency,2019,2589312.73
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,Local currency,2019,1489810.2
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,Local currency,2019,2638540.95
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,Local currency,2019,2402763.5
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2019,3876490.47
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2019,2818922.29
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2019,2841382.87
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,Local currency,2018,2465848.92
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,Local currency,2018,1343856.36
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,Local currency,2018,2479048.04
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,Local currency,2018,2203202.67
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2018,3568360.51
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2018,2712373.69
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2018,2785821.43
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,Local currency,2017,2433700.75
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,Local currency,2017,1270646.34
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,Local currency,2017,2435171.13
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,Local currency,2017,2110825.91
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2017,3667850.58
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2017,2677234.58
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2017,2857720.83
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Total,Local currency,2016,2125593.66
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Agriculture,Local currency,2016,1162169.68
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Manufacturing,Local currency,2016,2088512.55
+Indonesia,LFS - National Labour Force Survey,Total, (Aggregate): Construction,Local currency,2016,1931516.55
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2016,3191607.09
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2016,2351462.47
+Indonesia,LFS - National Labour Force Survey,Total," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2016,2458523.9
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,2017 PPP $,2022,464.1
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,2017 PPP $,2022,194.5
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,2017 PPP $,2022,465.26
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,2017 PPP $,2022,938.19
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2022,832.96
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2022,539.91
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2022,486.72
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,2017 PPP $,2021,429.69
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,2017 PPP $,2021,174.2
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,2017 PPP $,2021,427.2
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,2017 PPP $,2021,693.72
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2021,612.47
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2021,482.24
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2021,466.54
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,2017 PPP $,2020,418.57
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,2017 PPP $,2020,170.73
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,2017 PPP $,2020,410.43
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,2017 PPP $,2020,642.9
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2020,604.21
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2020,475.3
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2020,455.52
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,2017 PPP $,2019,420.52
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,2017 PPP $,2019,187.27
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,2017 PPP $,2019,407.17
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,2017 PPP $,2019,642.87
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2019,575.61
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2019,473.89
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2019,454.25
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,2017 PPP $,2018,406.37
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,2017 PPP $,2018,165.76
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,2017 PPP $,2018,382.33
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,2017 PPP $,2018,531.03
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2018,511.46
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2018,466.29
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2018,450.53
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,2017 PPP $,2017,405.1
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,2017 PPP $,2017,159.94
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,2017 PPP $,2017,376.68
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,2017 PPP $,2017,434.11
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2017,581.19
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2017,461.03
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2017,462.42
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,2017 PPP $,2016,375.33
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,2017 PPP $,2016,154.49
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,2017 PPP $,2016,351.89
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,2017 PPP $,2016,551.58
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",2017 PPP $,2016,573.63
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",2017 PPP $,2016,423.84
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",2017 PPP $,2016,423.43
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,U.S. dollars,2022,152.8
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,U.S. dollars,2022,64.04
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,U.S. dollars,2022,153.19
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,U.S. dollars,2022,308.9
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2022,274.25
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2022,177.76
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2022,160.25
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,U.S. dollars,2021,152.17
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,U.S. dollars,2021,61.69
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,U.S. dollars,2021,151.29
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,U.S. dollars,2021,245.68
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2021,216.91
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2021,170.79
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2021,165.23
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,U.S. dollars,2020,149.95
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,U.S. dollars,2020,61.16
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,U.S. dollars,2020,147.03
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,U.S. dollars,2020,230.31
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2020,216.45
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2020,170.27
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2020,163.18
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,U.S. dollars,2019,154.22
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,U.S. dollars,2019,68.68
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,U.S. dollars,2019,149.33
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,U.S. dollars,2019,235.77
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2019,211.1
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2019,173.8
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2019,166.59
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,U.S. dollars,2018,146.35
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,U.S. dollars,2018,59.7
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,U.S. dollars,2018,137.69
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,U.S. dollars,2018,191.24
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2018,184.2
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2018,167.93
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2018,162.25
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,U.S. dollars,2017,154.09
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,U.S. dollars,2017,60.84
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,U.S. dollars,2017,143.28
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,U.S. dollars,2017,165.12
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2017,221.07
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2017,175.36
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2017,175.89
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,U.S. dollars,2016,137.57
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,U.S. dollars,2016,56.62
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,U.S. dollars,2016,128.97
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,U.S. dollars,2016,202.16
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",U.S. dollars,2016,210.24
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",U.S. dollars,2016,155.34
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",U.S. dollars,2016,155.19
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,Local currency,2022,2269100.0
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,Local currency,2022,950947.91
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,Local currency,2022,2274794.53
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,Local currency,2022,4587101.17
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2022,4072560.92
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2022,2639766.94
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2022,2379700.3
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,Local currency,2021,2177332.31
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,Local currency,2021,882717.21
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,Local currency,2021,2164731.94
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,Local currency,2021,3515271.91
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2021,3103565.7
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2021,2443617.87
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2021,2364069.79
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,Local currency,2020,2186555.67
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,Local currency,2020,891864.06
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,Local currency,2020,2143998.63
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,Local currency,2020,3358419.34
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2020,3156280.95
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2020,2482865.3
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2020,2379532.03
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,Local currency,2019,2181905.69
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,Local currency,2019,971682.59
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,Local currency,2019,2112638.66
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,Local currency,2019,3335566.33
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2019,2986603.47
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2019,2458817.06
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2019,2356892.21
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,Local currency,2018,2083532.24
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,Local currency,2018,849887.4
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,Local currency,2018,1960316.0
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,Local currency,2018,2722725.45
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2018,2622377.03
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2018,2390795.27
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2018,2309967.52
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,Local currency,2017,2061855.94
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,Local currency,2017,814038.09
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,Local currency,2017,1917190.79
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,Local currency,2017,2209504.83
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2017,2958051.01
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2017,2346484.23
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2017,2353547.54
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Total,Local currency,2016,1830763.08
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Agriculture,Local currency,2016,753567.12
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Manufacturing,Local currency,2016,1716419.53
+Indonesia,LFS - National Labour Force Survey,Female, (Aggregate): Construction,Local currency,2016,2690429.27
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Mining and quarrying; Electricity, gas and water supply",Local currency,2016,2797983.05
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",Local currency,2016,2067370.56
+Indonesia,LFS - National Labour Force Survey,Female," (Aggregate): Public Administration, Community, Social and other Services and Activities",Local currency,2016,2065345.59
